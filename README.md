@@ -5,5 +5,5 @@
 # 踏み台
 
 ```
-ssh user@103.202.216.16 -p 20014
+sshpass -p t3t4ytWXHq ssh -p 20014 user@103.202.216.16
 ```
